@@ -41,7 +41,7 @@ var friends = [
   "name":"Pamela",
   "photo":"https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2016/09/02/09/pamelanaderson.jpg",
   "scores":[
-     9,
+     5,
      1,
      4,
      4,
