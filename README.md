@@ -1,4 +1,5 @@
 # FriendFinder
+# Heroku Link:[https://friend-finder.herokuapp.com/](https://friend-finder.herokuapp.com/)
 
 # Friend Finder - Node and Express Servers
 
@@ -10,5 +11,4 @@ In this activity, you'll build a compatibility-based "FriendFinder" application 
 
 You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
 
-# Heroku Link:
-https://glacial-ocean-19667.herokuapp.com/
+
